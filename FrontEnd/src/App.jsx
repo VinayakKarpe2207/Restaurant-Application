@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Toaster } from "react-hot-toast";
 import Success from "./Pages/Success";
 import NotFound from "./Pages/NotFound";
-import Home from "./pages/home";
+import Home from "./Pages/Home";
 
 const App = () => {
   return (
